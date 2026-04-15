@@ -1,0 +1,15 @@
+names:
+- Container Ship
+- Military Ship
+- RORO
+- Tanker
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: shipclassification-oc7nw
+  url: https://universe.roboflow.com/denizs-workspace-h7bff/shipclassification-oc7nw/dataset/4
+  version: 4
+  workspace: denizs-workspace-h7bff
+test: ../test/images
+train: ../train/images
+val: ../valid/images
