@@ -1,0 +1,16 @@
+names:
+- Carrier
+- Container Ship
+- RORO
+- Tanker
+- Tugboat
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: shipclassification-oc7nw
+  url: https://universe.roboflow.com/denizs-workspace-h7bff/shipclassification-oc7nw/dataset/6
+  version: 6
+  workspace: denizs-workspace-h7bff
+test: ../test/images
+train: ../train/images
+val: ../valid/images
